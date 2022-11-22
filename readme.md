@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Cristian Varela Casas**
+**Cristian Varela Casas**, Git lover.
